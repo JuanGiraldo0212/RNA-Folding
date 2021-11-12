@@ -1,0 +1,2 @@
+bprna_id,stems_actual,energy_actual,stems_predicted,energy_predicted,sensitivity,specificity
+bpRNA_RFAM_23378,"[[2, 37, 6], [13, 26, 4], [27, 58, 5]]",-190.0,"[[2, 37, 6], [13, 26, 6], [27, 58, 5], [40, 50, 3]]",-348.0,0.75,1.0
