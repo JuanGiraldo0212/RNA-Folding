@@ -16,7 +16,7 @@ The `data` folder contains a dataset with multiple RNA from [bpRNA](http://bprna
 
 The `results` folder contains the raw results of out annealing implementation in .csv form, including: structure bpRNA ID, known stems, known energy, predicted stems, predicted energy, and comparison metrics. The `cts` folder contains all actual and predicted connectivity tables. The `figures` folder contains [Circle Compare](https://rna.urmc.rochester.edu/RNAstructureWeb/Servers/CircleCompare/CircleCompare.html) diagrams and other plots.
 
-The `.old` folder contains older scripts (H-model, N-model, and plotting scripts) and older results.
+The `_old` folder contains older scripts (H-model, N-model, and plotting scripts) and older results.
 
 The linked [presentation](https://docs.google.com/presentation/d/1r9f51t5CkaSBdAiReTvXFvJ-J_PL5B8CKlnhDdwZ0fM/edit?usp=sharing) contains a walk-through of our methodology and results.
 
@@ -78,5 +78,3 @@ Walker, “RNA folding using quantum computers,” May 2021.
  - Hajdin et al., 2013 (Accurate shape-directed RNA secondary structure modelling including pseudoknots)
  - Andronescu et al., 2010 (Improved free energy parameters for RNA pseudoknotted secondary structure prediction)
  - Bapst and Semerjian, 2012 (On quantum mean-field models and their quantum annealing)
-
-
