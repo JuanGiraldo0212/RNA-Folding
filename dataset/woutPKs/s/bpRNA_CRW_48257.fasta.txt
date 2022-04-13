@@ -1,0 +1,2 @@
+>bpRNA_CRW_48257|Accession ID:AY101148|Original Source:Gutell Lab CRW (http://www.rna.ccbb.utexas.edu/DAT/3C/SBPI/index.php)
+CCGGGAUAGCUCACCUGGUAGAGCAGAGGACUGAAAAUCCUCGUGUCA
