@@ -1,2 +1,0 @@
->bpRNA_CRW_19647|Accession ID:EF121358|Original Source:Gutell Lab CRW (http://www.rna.ccbb.utexas.edu/DAT/3C/SBPI/index.php)
-GAUCCCAUCAGAACUCCGAAGUUAAGCGUG
