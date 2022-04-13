@@ -1,2 +1,0 @@
->bpRNA_CRW_34873|Accession ID:AF524968|Original Source:Gutell Lab CRW (http://www.rna.ccbb.utexas.edu/DAT/3C/SBPI/index.php)
-GGCGGAUGUAGCCAAGUGGAUCAAGGCAGUGGAUUUGUGAAUCCCCAGCC

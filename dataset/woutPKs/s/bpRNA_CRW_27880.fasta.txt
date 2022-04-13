@@ -1,2 +1,0 @@
->bpRNA_CRW_27880|Accession ID:S42073|Original Source:Gutell Lab CRW (http://www.rna.ccbb.utexas.edu/DAT/3C/SBPI/index.php)
-GGGUUCGAAUCCCGUCGAGACCG

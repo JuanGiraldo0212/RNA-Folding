@@ -1,0 +1,2 @@
+>bpRNA_CRW_40286|Accession ID:DQ347958|Original Source:Gutell Lab CRW (http://www.rna.ccbb.utexas.edu/DAT/3C/SBPI/index.php)
+GGGCGAGGUCUCUGGUUCAAGUCCAGGAUGGCCCA

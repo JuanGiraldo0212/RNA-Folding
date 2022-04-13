@@ -1,2 +1,0 @@
->bpRNA_CRW_47299|Accession ID:AJ560293|Original Source:Gutell Lab CRW (http://www.rna.ccbb.utexas.edu/DAT/3C/SBPI/index.php)
-AAUGGUUGGGAUAGCUCAGUUUGAAGACGCCGGACUGAAUAA

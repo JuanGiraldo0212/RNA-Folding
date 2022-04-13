@@ -10,13 +10,18 @@ The annealing implemention of this project is located in the file: qrna_annealin
 
 The QAOA implementation of this project is located in the file: qrna_circuit.ipynb where we use the QAOA implementation of Qiskit to find the optimal solution for the proposed Hamiltonian. 
 
-The training implemention of this project is located in the file: braket.ipynb, where we use D-wave's simulated annealing sampler and Qiskit's SPSA optimizer to optimize the parameters of our Hamiltonian.
+The training implemention of this project is located in the file: training.ipynb, where we use D-wave's simulated annealing sampler and Qiskit's SPSA optimizer to optimize the parameters of our Hamiltonian.
 
-The `data` folder contains a dataset with multiple RNA from [bpRNA](http://bprna.cgrb.oregonstate.edu/index.html) sequences of different size (from 20 to 400 bases) and type (known to contain pseudoknots, pseudoknot-free). These are used as inputs for each implementation of our methodology. 
+The `models` folder contains standalone scripts for each of model 1, model 2, and our model (model 3).
+
+
+The `data` folder contains a dataset with multiple RNA from [bpRNA](http://bprna.cgrb.oregonstate.edu/index.html) sequences of different size (from 0 to 500 bases) and type (known to contain pseudoknots, pseudoknot-free). These are used as inputs for each implementation of our methodology. 
 
 The `results` folder contains the raw results of out annealing implementation in .csv form, including: structure bpRNA ID, known stems, known energy, predicted stems, predicted energy, and comparison metrics. The `cts` folder contains all actual and predicted connectivity tables. The `figures` folder contains [Circle Compare](https://rna.urmc.rochester.edu/RNAstructureWeb/Servers/CircleCompare/CircleCompare.html) diagrams and other plots.
 
-The `.old` folder contains older scripts (H-model, N-model, and plotting scripts) and older results.
+The `.old` folder contains older scripts (H-model, N-model, and plotting scripts) and older results/data.
+
+The `misc` folder contains the circuit model implementation, as well as a script which plots the number of potential stems against sequence length to compare with the theoretical maximum. 
 
 The linked [presentation](https://docs.google.com/presentation/d/1r9f51t5CkaSBdAiReTvXFvJ-J_PL5B8CKlnhDdwZ0fM/edit?usp=sharing) contains a walk-through of our methodology and results.
 
