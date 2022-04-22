@@ -1,6 +1,3 @@
-# bpRNA File:bpRNA_CRW_17942.ct
-# Original Source:Gutell Lab CRW (http://www.rna.ccbb.utexas.edu/DAT/3C/SBPI/index.php); Original File:AC159438_b.ct; Accession ID:AC159438;
-   38 Energy = 0   Eukaryotic/AC159438_b
    1 G 0 2 13 1
    2 A 1 3 0 2
    3 U 2 4 12 3

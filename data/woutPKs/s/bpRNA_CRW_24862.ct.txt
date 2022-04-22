@@ -1,6 +1,3 @@
-# bpRNA File:bpRNA_CRW_24862.ct
-# Original Source:Gutell Lab CRW (http://www.rna.ccbb.utexas.edu/DAT/3C/SBPI/index.php); Original File:DQ347958_am.ct; Accession ID:DQ347958;
-   38 Energy = 0   tRNAs/Alanine/DQ347958_am
    1 G 0 2 0 1
    2 G 1 3 0 2
    3 G 2 4 0 3

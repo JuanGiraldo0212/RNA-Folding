@@ -1,6 +1,3 @@
-# bpRNA File:bpRNA_CRW_55446.ct
-# Original Source:Gutell Lab CRW (http://www.rna.ccbb.utexas.edu/DAT/3C/Structure/index.php); Original File:d.5.b.A.madurae.ct; Accession ID:D13615;
-    121 Energy = 0   d.5.b.A.madurae
     1 C 0 2 120 1
     2 G 1 3 119 2
     3 U 2 4 118 3

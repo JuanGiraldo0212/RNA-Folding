@@ -1,6 +1,3 @@
-# bpRNA File:bpRNA_CRW_41031.ct
-# Original Source:Gutell Lab CRW (http://www.rna.ccbb.utexas.edu/DAT/3C/SBPI/index.php); Original File:AE008384_ae.ct; Accession ID:AE008384;
-   74 Energy = 0   tRNAs/Lysine/AE008384_ae
    1 G 0 2 73 1
    2 G 1 3 72 2
    3 G 2 4 71 3

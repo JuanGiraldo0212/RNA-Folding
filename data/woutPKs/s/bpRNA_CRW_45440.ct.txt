@@ -1,6 +1,3 @@
-# bpRNA File:bpRNA_CRW_45440.ct
-# Original Source:Gutell Lab CRW (http://www.rna.ccbb.utexas.edu/DAT/3C/SBPI/index.php); Original File:AF148732_a.ct; Accession ID:AF148732;
-   48 Energy = 0   tRNAs/Phenylalanine/AF148732_a
    1 G 0 2 0 1
    2 U 1 3 0 2
    3 C 2 4 0 3
