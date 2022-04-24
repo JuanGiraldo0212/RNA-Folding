@@ -1,0 +1,2 @@
+>bpRNA_CRW_17942|Accession ID:AC159438|Original Source:Gutell Lab CRW (http://www.rna.ccbb.utexas.edu/DAT/3C/SBPI/index.php)
+GAUCAGUGAUGGCGCUGGAACCCGGGGUGUUGUACUCU
